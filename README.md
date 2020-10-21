@@ -1,8 +1,7 @@
-# MineKhan
-Minecraft for Khan Academy
+# MineRemix
+A fork of MineKhan to add more features.
 
-Khan Academy link can be found [here](https://www.khanacademy.org/computer-programming/minecraft/5647155001376768).
-
-Fullscreen version of the game can be found [here](https://willard21.github.io/MineKhan/Minecwaft.html).
-
-If you'd like to contribute, join the conversation on [Discord](https://discord.gg/j3SzCQU).
+(Original) Khan Academy link can be found [here](https://www.khanacademy.org/computer-programming/minecraft/5647155001376768).
+==============================================================================================================================
+This version of MineKhan is ment to tie in with my GameRemix service found here: https://microlemur.net
+Main goals of this are to add features such as Anticheat and Multiplayer. The multiplayer will be provided by QuikOnline.
